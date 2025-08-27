@@ -1,3 +1,6 @@
+#  pip install torch torchaudio transformers librosa fuzzywuzzy python-Levenshtein
+
+
 
 import torch
 import torchaudio
